@@ -1,2 +1,8 @@
 # Evolwe.ai
-Evolwe is an automated conversational agent (AI-based chatbot).
+**Evolwe** is an automated conversational agent (AI-based chatbot), that helps people reach their goals, overcome challenging situations, learn about themselves and make positive changes in their lives.
+
+* **Evolwe AI - Web Platform**
+
+* **Evolwe AI - Telegram **
+
+
