@@ -1,5 +1,9 @@
 # Evolwe.ai
-**Evolwe** is an automated conversational agent (AI-based chatbot), that helps people reach their goals, overcome challenging situations, learn about themselves and make positive changes in their lives.
+**Evolwe AI** is a deep tech company, creating the first empathetic AI for human-like interactions and personalized experiences.
+
+Evolwe deeply understands the user’s personality and creates endless conversations.
+
+Evolwe AI has combined theory of mind, meta-cognition, psychometrics, and NLP to create state-of-the-art AI architecture. Evolwe creates AI which is closest to humans in terms of providing empathy, reasoning, and cognitive skills.
 
 
 
